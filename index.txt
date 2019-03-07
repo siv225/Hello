@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B299-6684
+
+ Directory of C:\Users\SNL\Desktop\Jenkins_Home\Jenkins_Home\java_proj
+
+07-03-2019  22:55    <DIR>          .
+07-03-2019  22:55    <DIR>          ..
+06-03-2019  22:52               679 Hello.class
+01-03-2019  22:55               181 Hello.java
+07-03-2019  22:55                 0 index.txt
+07-03-2019  22:49               467 sample.txt
+               4 File(s)          1,327 bytes
+               2 Dir(s)  855,021,481,984 bytes free
